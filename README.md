@@ -1,5 +1,7 @@
 # Dogen
 
+[![Build Status](https://travis-ci.org/IvanovPvl/dogen.svg?branch=master)](https://travis-ci.org/IvanovPvl/dogen)
+
 Generate docx from http request
 
 ## Info
