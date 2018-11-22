@@ -11,8 +11,8 @@ Project uses [docxtemplater](https://docxtemplater.com/) library.
 Put your templates into `templates` folder, then
 
 ```sh
-npm i && npm i --dev
-npm run build-ts && npm run start
+npm i & npm i --dev
+npm run build-ts & npm run start
 ```
 
 Send POST request to http://localhost/gen/<templateName> with json body that contains values for substitution.
